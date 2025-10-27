@@ -1,2 +1,30 @@
 Dies ist ein Text von Branch1 und Branch 2 und onlineS
 
+<3
+
+„Ode an Git“
+
+Im Codewald, tief und dicht,
+da flüstert Git mit leisem Licht.
+Ein commit hier, ein push dort,
+Versionsgeschichte – Wort für Wort.
+
+Ein branch entspringt, so frisch, so frei,
+„Experimentier!“, ruft er dabei.
+Doch merge ich ihn — o welch Gefahr!
+Ein conflict lauert, wunderbar.
+
+Mit rebase glätt’ ich Zeit und Raum,
+mach Chronologie zum stillen Traum.
+Doch wehe, wehe, wer das wagt,
+und seine history nicht befragt.
+
+Checkout, stash und pull im Takt,
+Git tanzt, wenn man’s mit Wissen packt.
+Denn Chaos wird zu Ordnung, schlicht,
+wenn man den log mit Liebe spricht.
+
+So danke ich dir, Git, du stiller Held,
+der meinen Code in Schichten hält.
+Kein Bit geht je verloren hin —
+solang ich weiß, wo meine remotes sind.
