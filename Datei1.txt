@@ -1,2 +1,2 @@
-Dies ist ein Text von Branch1 und Branch 2 und offline
+Dies ist ein Text von Branch1 und Branch 2 und offline 2,0
 
